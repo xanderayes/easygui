@@ -21,7 +21,7 @@ var globalSettings = {
 	backgrounds: [
 		"url( '/images/bgpatterns/pattern1.png' )","#bbb","url( '/images/bgpatterns/q.png' )","url( '/images/bgpatterns/pattern2.jpg' )","url( '/images/bgpatterns/pattern3.jpg' )","url( '/images/bgpatterns/pattern4.jpg' )","url( '/images/bgpatterns/pattern5.jpg' )","url( '/images/bgpatterns/pattern6.jpg' )","url( '/images/bgpatterns/pattern7.jpg' )",
 	],
-	saveSettingsUrl: 'http://www.griddlers.net/pt_PT/nonogram/-/g/i01?p_p_lifecycle=2&p_p_resource_id=griddlerPuzzle&p_p_cacheability=cacheLevelPage&_gpuzzles_WAR_puzzles_name=touchScreen&_gpuzzles_WAR_puzzles_value=off',
+	saveSettingsUrl: 'https://raw.githubusercontent.com/xanderayes/easygui/master/testegrid2.js',
 	colorSet1:["ffffff", "000000", "ff0000", "00ff00", "0000ff", "00ffff", "ff00ff", "808080"],
 	colorSet2:["ffffff", "000000", "ff0000", "ff00ff", "880088", "0000ff", "880000", "000088"]
 	
